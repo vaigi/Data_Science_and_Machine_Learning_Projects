@@ -1,4 +1,4 @@
-# Data Science & Machine Learning Projects 🚀
+# Data Science & Machine Learning Projects
 
 В данном репозитории собраны мои практические проекты в области анализа данных и компьютерного зрения.
 
